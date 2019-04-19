@@ -1,0 +1,5 @@
+
+import ipfsapi
+
+
+def connect(str,int) -> ipfsapi.Client: ...     # function

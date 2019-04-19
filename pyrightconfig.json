@@ -12,6 +12,10 @@
     "reportUntypedFunctionDecorator": "error",
     "pythonPlatform": "Linux",
     "pythonVersion": "3.7",
-    "venvPath": ".",
-    "venv": "kamina-env"
+    "venvPath": "envs",
+    "venv": "kamina-dev",
+    "typingsPath": "typestubs",
+    "typeshedPath": "envs/kamina-dev/Lib/site-packages/mypy/typeshed/3.7",
+    "include": ["src"],
+    "ignore":[".vscode",".mypy_cache"]
 }
