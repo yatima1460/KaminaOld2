@@ -1,0 +1,17 @@
+{
+    "reportImportCycles": "error",
+    "reportMissingImports": "error",
+    "reportMissingTypeStubs": "error",
+    "reportTypeshedErrors": "error",
+    "reportOptionalCall": "error",
+    "reportOptionalIterable": "error",
+    "reportOptionalMemberAccess": "error",
+    "reportOptionalSubscript": "error",
+    "reportPrivateUsage": "error",
+    "reportUntypedClassDecorator": "error",
+    "reportUntypedFunctionDecorator": "error",
+    "pythonPlatform": "Linux",
+    "pythonVersion": "3.7",
+    "venvPath": ".",
+    "venv": "kamina-env"
+}
